@@ -1,0 +1,1 @@
+I learned about how to make changes, add, commit, and then push my changes to my remote branches. I checked out branches and staged changes and followed up with a pull request to close a branch. The command that saved the day was git push
